@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.syhan.p2.mail.protection_1.0.1.qualifier.jar" id="com.syhan.p2.mail.protection" version="1.0.1.qualifier">
+      <category name="mail"/>
+   </feature>
+   <category-def name="mail" label="Mail Additions">
+      <description>
+         Mail Additions Site
+      </description>
+   </category-def>
+</site>

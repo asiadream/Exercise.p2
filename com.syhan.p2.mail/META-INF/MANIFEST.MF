@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mail
+Bundle-SymbolicName: com.syhan.p2.mail;singleton:=true
+Bundle-Version: 1.0.1.qualifier
+Bundle-Activator: com.syhan.p2.mail.Activator
+Bundle-Vendor: SYHAN
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-ActivationPolicy: lazy
+Import-Package: org.eclipselabs.p2.rcpupdate.utils
